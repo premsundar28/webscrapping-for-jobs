@@ -1,10 +1,4 @@
-
-pip3 install requests beautifulsoup4 pandas schedule #to install the required modules
-
-python3 -m venv venv # to create a virtual environment
-
-
-source venv/bin/activate # to activate the virtual environment
-
-
-pip install -r requirements.txt # to install the required packages from requirements.txt
+requests
+beautifulsoup4
+pandas
+schedule
